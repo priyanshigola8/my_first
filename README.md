@@ -1,1 +1,1 @@
-# my_first
+This is git practice repository. 
